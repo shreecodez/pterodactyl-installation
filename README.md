@@ -51,5 +51,8 @@ To use the installation scripts, simply run this command as root. The script wil
 bash <(curl -s https://pterodactyl-installer.se)
 ```
 
-
+## Wings Starting Script
+```bash
+systemctl start wings
+```
 ## More Scripts and Stuff will be added soon!
