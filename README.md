@@ -51,6 +51,13 @@ To use the installation scripts, simply run this command as root. The script wil
 bash <(curl -s https://pterodactyl-installer.se)
 ```
 
+## Timezone (Copy Paste the Complete Line)
+
+```bash
+Asia/Kolkata
+```
+
+
 ## Wings Starting Script
 ```bash
 systemctl start wings
