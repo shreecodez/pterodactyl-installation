@@ -50,3 +50,6 @@ To use the installation scripts, simply run this command as root. The script wil
 ```bash
 bash <(curl -s https://pterodactyl-installer.se)
 ```
+
+
+## More Scripts and Stuff will be added soon!
